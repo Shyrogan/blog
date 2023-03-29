@@ -1,3 +1,8 @@
+---
+title: Welcome to my blog!
+description: This is the first article of my blog.
+---
+
 # Welcome
 
 Welcome to my blog, this is my first article.
