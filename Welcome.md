@@ -1,6 +1,7 @@
 ---
 title: Welcome to my blog!
 description: This is the first article of my blog.
+date: 29/03/2023
 ---
 
 # Welcome
