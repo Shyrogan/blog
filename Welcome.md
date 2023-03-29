@@ -25,9 +25,17 @@ I also used SolidJS to build an application for managing [ENSCM](https://www.ens
 
 In this blog, I'll be sharing my thoughts and experiences on a few subjects that interest me:
 
-- Minecraft: I've been playing Minecraft for years, and I love experimenting with mods and plugins. I'm always looking for new ways to enhance gameplay and create interesting experiences. I'll be sharing my experience and the good practices I've found when writing some of my projects.
-- The JVM and Hackery: As a computer science student, I've spent a lot of time working with the Java Virtual Machine (JVM). I enjoy digging into the internals and finding creative solutions to problems. I also like tinkering with other programming languages and platforms.
-- Rust: I've recently started exploring Rust, and I'm really impressed with its performance and safety features. I'm excited to learn more about the language and share my experiences with you.
+- **Minecraft**
+
+I've been playing Minecraft for years, and I love experimenting with mods and plugins. I'm always looking for new ways to enhance gameplay and create interesting experiences. I'll be sharing my experience and the good practices I've found when writing some of my projects.
+
+- **The JVM and Hackery**
+
+As a computer science student, I've spent a lot of time working with the Java Virtual Machine (JVM). I enjoy digging into the internals and finding creative solutions to problems. I also like tinkering with other programming languages and platforms.
+
+- **Rust**
+
+I've recently started exploring Rust, and I'm really impressed with its performance and safety features. I'm excited to learn more about the language and share my experiences with you.
 
 ## Conclusion
 
