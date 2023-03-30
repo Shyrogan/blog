@@ -10,10 +10,10 @@ Hello and welcome to my blog! This is my first post, and I'm excited to share my
 
 ## About This Blog
 
-One of my project ideas was to create a blog using SolidJS that fetches data from my GitHub repository, where I store my articles.  
-When you visit the main page of my blog, your browser retrieves the data from my [blog repository](https://github.com/Shyrogan/blog).  
-The content of each `.md` file is fetched, and the metadata about each article is parsed using [yaml-front-matter](https://www.npmjs.com/package/yaml-front-matter).  
-When you click on an article, the content is fetched and displayed using [marked](https://marked.js.org/).
+I built this blog using SolidJS and GitHub.  
+When you visit the main page, your browser retrieves data from my GitHub repository, where I store my articles. The markdown content of each article is parsed into HTML components using [remark](https://github.com/remarkjs/remark) and [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter).  
+
+When you click on an article, the content is fetched and displayed dynamically without refreshing the page, thanks to the power of SolidJS. 
 
 ## SolidJS <3
 
