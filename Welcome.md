@@ -1,7 +1,8 @@
 ---
-name: Welcome to my blog!
+title: Welcome to my blog!
 description: My very first article for my blog
 slug: welcome
+date: 2025-11-17
 ---
 
 # Welcome to my blog!
